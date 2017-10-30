@@ -7,5 +7,6 @@
     "statsd.port": 8125,
     "sip.path": "/sip",
     "sip.host": "localhost",
-    "sip.port": 12345
+    "sip.port": 12345,
+    "foi!!!": true
 }
