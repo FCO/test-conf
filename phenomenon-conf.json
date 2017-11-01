@@ -13,5 +13,6 @@
 	"global.maxRetries": 5,
 	"global.maxFailures": 5,
 	"global.timeout": 1000,
-	"newad.resetTimeout": 500
+	"newad.resetTimeout": 500,
+	"sip.resetTimeout": 10000
 }
