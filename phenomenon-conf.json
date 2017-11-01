@@ -12,5 +12,6 @@
 	"global.resetTimeout": 5000,
 	"global.maxRetries": 1,
 	"global.maxFailures": 5,
-	"global.timeout": 200
+	"global.timeout": 200,
+	"newad.maxRetries": 0
 }
