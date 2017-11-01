@@ -10,8 +10,8 @@
     "sip.port": 12345,
 	"sip.fallback.return": false,
 	"global.resetTimeout": 5000,
-	"global.maxRetries": 0,
-	"global.maxFailures": 1,
+	"global.maxRetries": 5,
+	"global.maxFailures": 5,
 	"global.timeout": 1000,
 	"newad.resetTimeout": 500
 }
