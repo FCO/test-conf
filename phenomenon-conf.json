@@ -9,6 +9,8 @@
     "sip.host": "localhost",
     "sip.port": 12345,
 	"sip.fallback.return": false,
-	"global.maxFailures" : 5,
-	"global.timeout" : 1000
+	"global.resetTimeout": 5000,
+	"global.maxRetries": 5,
+	"global.maxFailures": 5,
+	"global.timeout": 200
 }
