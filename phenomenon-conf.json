@@ -8,11 +8,12 @@
     "sip.path": "/sip",
     "sip.host": "localhost",
     "sip.port": 12345,
-	"sip.fallback.return": false,
+	"sip.fallback.return": true,
 	"global.resetTimeout": 5000,
 	"global.maxRetries": 5,
 	"global.maxFailures": 5,
 	"global.timeout": 1000,
 	"newad.resetTimeout": 500,
-	"sip.resetTimeout": 10000
+	"sip.resetTimeout": 10000,
+    "redis_insertion_fee.active": true
 }
