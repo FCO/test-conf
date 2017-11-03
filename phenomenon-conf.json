@@ -15,5 +15,5 @@
 	"global.timeout": 1000,
 	"newad.resetTimeout": 500,
 	"sip.resetTimeout": 10000,
-    "redis_insertion_fee.active": false
+    "redis_insertion_fee.active": true
 }
