@@ -8,7 +8,7 @@
     "sip.path": "/sip",
     "sip.host": "localhost",
     "sip.port": 12345,
-	"sip.fallback.return": true,
+	"sip.fallback.return": false,
 	"global.resetTimeout": 5000,
 	"global.maxRetries": 5,
 	"global.maxFailures": 5,
