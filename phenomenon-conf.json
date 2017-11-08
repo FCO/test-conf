@@ -1,8 +1,8 @@
 {
     "port": 8100,
     "max_request_body_size": 100000,
-    "trans.host": "dev06c6.srv.office",
-    "trans.port": 25029,
+    "trans.host": "trans",
+    "trans.port": 5656,
     "statsd.host": "10.49.0.207",
     "statsd.port": 8125,
     "sip.path": "/sip",
